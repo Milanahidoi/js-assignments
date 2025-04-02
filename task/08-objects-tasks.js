@@ -68,7 +68,7 @@ function fromJSON(proto, json) {
 
 
 /**
- * Css selectors builder
+ * Css selectors builder!
  *
  * Each complex selector can consists of type, id, class, attribute, pseudo-class and pseudo-element selectors:
  *
